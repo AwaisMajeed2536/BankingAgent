@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "627247485287",
+    "firebase_url": "https://virtual-agent-d9704.firebaseio.com",
+    "project_id": "virtual-agent-d9704",
+    "storage_bucket": "virtual-agent-d9704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627247485287:android:4c6f58fddafb1d6a",
+        "android_client_info": {
+          "package_name": "com.example.saad_kamaal.bankingagent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627247485287-eg5bfec6ga4k8cvime9eufjqd752b2hh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saad_kamaal.bankingagent",
+            "certificate_hash": "40d72fe99a13fd788470c7a07945bf87997c01d4"
+          }
+        },
+        {
+          "client_id": "627247485287-jr3vndvfm9gvrtio4iejsde53vim90fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvPy1jOoQYZfYAGOkBy8J4tfaPXFD1Gzk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627247485287-jr3vndvfm9gvrtio4iejsde53vim90fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
